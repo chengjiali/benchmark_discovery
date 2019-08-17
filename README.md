@@ -13,5 +13,8 @@ System specifications:
   - C++ compiler: G++ 
   - OpenMP: 
   - MPI: OpenMPI
+  - Fullnode partition, nodelist=c
 
 GCC OMP
+
+GCC MPI
